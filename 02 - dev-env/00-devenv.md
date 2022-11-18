@@ -1,4 +1,4 @@
-* Setting up a Dev Environment
+# Setting up a Dev Environment
 
 When working on a python project, a common way that people will manage their dependencies is running =pip freeze > requirements.txt= and coupling that with =virtualenv= to manage project level dependencies.
 
