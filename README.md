@@ -5,14 +5,14 @@
 ## Background
 [Link to the Video](https://youtu.be/gBalsA-x300)
 
-This tutorial will show you how to integrate ==docker== into your data science workflow. =docker= is an open source tool that makes it easy to build, deploy and run applications using a container framework. If you do any of the following, you can use ^^docker^^ to make your life easier:
+This tutorial will show you how to integrate `docker` into your data science workflow. `docker` is an open source tool that makes it easy to build, deploy and run applications using a container framework. If you do any of the following, you can use ^^docker^^ to make your life easier:
 
 
 - share and reproduce your analysis
 - run large scale data cleaning tasks
 - build dashboards and publish models 
 
-* Getting Started
+## Getting Started
 
 Clone the repo to your machine
 
