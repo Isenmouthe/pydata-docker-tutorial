@@ -1,10 +1,6 @@
-#+TITLE: Docker for Data Science 
-#+AUTHOR: Hareem Naveed
-#+EMAIL: hnaveed@munichre.ca
-#+STARTUP: showeverything
-#+STARTUP: nohideblocks
-#+STARTUP: Indent
-
+# TITLE: Docker for Data Science 
+#### AUTHOR: Hareem Naveed
+#### EMAIL: hnaveed@munichre.ca
 
 ## Background
 [Link to the Video](https://youtu.be/gBalsA-x300)
@@ -20,9 +16,9 @@ This tutorial will show you how to integrate ==docker== into your data science w
 
 Clone the repo to your machine
 
-#+BEGIN_EXAMPLE
+```console
  git clone https://github.com/harnav/pydata-docker-tutorial.git
-#+END_EXAMPLE
+```
 
 In this tutorial, we will go over three points
 
@@ -30,13 +26,13 @@ In this tutorial, we will go over three points
 2. Reproducible environments
 3. Deploying models
 
-*** References
+## References
 
 For more detailed instructions, check out: 
 
-- [[https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5][How Docker Can Help you Become a More Effective Data Scientist]]
-- [[https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/][Reproducible Data Science: Docker for Data Science]]
-- [[https://github.com/docker/labs][Docker Labs]]
+- [How Docker Can Help you Become a More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+- [Reproducible Data Science: Docker for Data Science]([https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/)
+- [Docker Labs](https://github.com/docker/labs)
 
 
 
